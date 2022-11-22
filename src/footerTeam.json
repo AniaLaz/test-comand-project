@@ -1,0 +1,81 @@
+[
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1fJuafLbYbxz6FSRtwFKoQ89pSXDX2mAl=w2800-h1662-iv1",
+    "full_name": "Artem Teslenko",
+    "role": "Developer/Team leader",
+    "git_page": "https://github.com/ArtemTeslenko",
+    "telegram": "https://t.me/artemTeslenkoW126",
+    "id": "1"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1mvWlxOgselWBh0ysFmktjq-bl1eigrmA=w2800-h1662-iv1",
+    "full_name": "Anna Lazarenko",
+    "role": "Developer/Scram master",
+    "git_page": "https://github.com/AniaLaz",
+    "telegram": "https://t.me/AniaLaz",
+    "id": "2"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/18mUbYwmN6IE71kNonjTIev-ycajALsgX=w2800-h1662-iv1",
+    "full_name": "Pavlo Bieliak",
+    "role": "Developer",
+    "git_page": "https://github.com/Paul48wt",
+    "telegram": "https://t.me/Paul48wt",
+    "id": "3"
+  },
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1kTZr2Am9uvMmynRmtcBIJXJYIUzo0V8u=w2800-h1662-iv1",
+    "full_name": "Oksana Robeiko",
+    "role": "Developer",
+    "git_page": "https://github.com/roi5430",
+    "telegram": "https://t.me/ksyuhaR",
+    "id": "4"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1y3kMYBhIRCu-peMf-4uhmPpvgjA4ClpM=w2800-h1662-iv1",
+    "full_name": "Ganna Kovchyk",
+    "role": "Developer",
+    "git_page": "https://github.com/GannaKov",
+    "telegram": "https://t.me/Ganna_GannochKa",
+    "id": "5"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1oRp5PLiX5NrvV_vPX4lw0bFzhZDZBttp=w2800-h1662-iv1",
+    "full_name": "Bohdan Opanasenko",
+    "role": "Developer",
+    "git_page": "https://github.com/Chillbeffore",
+    "telegram": "https://t.me/Chillbefore",
+    "id": "6"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1agJfA8JSiI9ifqCbYosao00zS94QBAq5=w2800-h1662-iv1",
+    "full_name": "Sergii Kuntsevskyi",
+    "role": "Developer",
+    "git_page": "https://github.com/TechnicUnion",
+    "telegram": "https://t.me/serhiikuntsevskyi",
+    "id": "7"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/10BlX65LZXXBF1QA7JoMVmALbL1QDidXZ=w2800-h1662-iv1",
+    "full_name": "Vladyslav Sydorenko",
+    "role": "Developer",
+    "git_page": "https://github.com/VladosSid",
+    "telegram": "https://t.me/Vlados_sid",
+    "id": "8"
+  },
+
+  {
+    "photo_face": "https://lh3.google.com/u/0/d/1jYG3nw0rvy6r3TBJPWZxrMmONTO5vxU5=w2800-h1662-iv1",
+    "full_name": "Volodymyr Rokhmanov",
+    "role": "Developer",
+    "git_page": "https://github.com/Volodymyr1973",
+    "telegram": "https://t.me/RVolodymyrI",
+    "id": "9"
+  }
+]

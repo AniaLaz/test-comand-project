@@ -1,0 +1,45 @@
+<header class="page-header">
+  <div class="container">
+    <nav class="header-nav">
+      <a class="header-logo link" href="./index.html">
+        <svg class="header-logo__icon" width="24" height="24">
+          <use href="./images/icons.svg#icon-film"></use>
+        </svg>
+        <span class="header-logo__text">Filmoteka</span>
+      </a>
+      <ul class="header-nav__menu list">
+        <li class="header-nav__item">
+          <a class="link link--current" href="">HOME</a>
+        </li>
+        <li class="header-nav__item btnNotAuth">
+          <a class="link" id="logIn" href="#">Log In</a>
+        </li>
+
+        <li class="header-nav__item btnAuth is-hidden">
+          <a class="link" id="empty" href="./library.html">MY LIBRARY</a>
+        </li>
+
+        <li class="header-nav__item btnAuth is-hidden">
+          <a class="link" id="logOut" href="#">Log out</a>
+          <!-- &nbsp -->
+        </li>
+      </ul>
+    </nav>
+    <form class="search-form">
+      <input
+        class="search-form__input"
+        type="text"
+        placeholder="Movie search"
+      />
+      <button class="search-form__btn" type="submit">
+        <svg class="search-form__icon" width="12" height="12">
+          <use href="./images/icons.svg#icon-search"></use>
+        </svg>
+      </button>
+    </form>
+    <button type="button" class="filter_open_btn" aria-label="open filter">
+      Filter
+    </button>
+    <!-- checked -->
+  </div>
+</header>

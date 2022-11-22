@@ -1,0 +1,26 @@
+@import './common';
+@import './base/reset';
+@import './utils/variables';
+@import './utils/mixin';
+@import './utils/commonBtn';
+
+// --- Ganna K
+@import './components/container';
+@import './components/currentLink';
+@import './layout/headerHome';
+@import './layout/filmsGallery';
+@import './layout/pagination';
+// --------------
+
+@import './layout/commonModal';
+
+@import './layout/headerLibrary';
+@import './layout/footer';
+@import './layout/arrow-up';
+@import './layout/loadMoreBtn';
+
+@import './layout/modalAuthUser';
+@import './layout/spinner';
+@import './layout/trailer';
+//fiter
+@import './layout/filter';
