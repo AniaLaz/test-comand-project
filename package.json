@@ -2,10 +2,10 @@
   "name": "command-project-JS",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/command-project-JS",
+  "homepage": "https://AniaLaz.github.io/test-comand-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-JS/"
+    "build": "parcel build src/*.html --public-url /test-comand-project"
   },
   "repository": {
     "type": "git",
